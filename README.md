@@ -10,7 +10,7 @@ Signed network datasets collected for network science, deep learning, and social
 
 1. [Bitcoin Alpha](#bitcoin-alpha)
 2. [Bitoin OTC](#bitcoin-otc)
-3. [Bitcoin OTC (Synthetic)](#bitcion-otc-synthetic)
+3. [Bitcoin OTC (Synthetic)](#bitcion-otc-(synthetic))
 4. [Cloister](#cloister)
 5. [Congress](#congress)
 6. [Epinions](#epinions)
@@ -18,9 +18,11 @@ Signed network datasets collected for network science, deep learning, and social
 8. [Slashdot](#slashdot)
 9. [Twitter Italian Referendum](#twitter-italian-referendum)
 10. [Wikipedia Conflict](#wikipedia-conflict)
+11. [Wikipedia Elections](#wikipedia-elections)
+12. [Wikipedia Politics](#wikipedia-politics)
 
 
-## Bitoin Alpha
+## Bitcoin Alpha
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -231,7 +233,7 @@ Congress is a directed signed network whose edges are labels with either a posit
 
 
 ## Epinions
-
+[top](#contents)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
