@@ -3,7 +3,7 @@
 Signed network datasets collected for network science, deep learning, and social network analysis research.
 
 <p align="center">
-  <img width="600" src="/images/repo_figure.png">
+  <img width="600" src="images/logo_nds.png">
 </p>
 
 ##### Contents   
@@ -23,6 +23,7 @@ Signed network datasets collected for network science, deep learning, and social
 
 
 ## Bitcoin Alpha
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -65,7 +66,7 @@ Bitcoin Alpha is a directed signed trust network of people who trade using Bitco
 
 
 ## Bitcoin OTC
-
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -107,7 +108,7 @@ Bitcoin OTC is a directed signed trust network of people who trade using Bitcoin
 
 
 ## Bitcoin OTC (Synthetic)
-
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -149,7 +150,7 @@ Bitcoin OTC (Synthetic) is a signed network whose directed edges are labels with
 
 
 ## Cloister
-
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -191,7 +192,7 @@ Cloister is a directed signed network whose edges are labels with either a posit
 
 
 ## Congress
-
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -233,7 +234,7 @@ Congress is a directed signed network whose edges are labels with either a posit
 
 
 ## Epinions
-[top](#contents)
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -275,7 +276,7 @@ Epinions is a directed signed network whose edges are labels with either a posit
 
 
 ## Highland Tribes
-
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -317,7 +318,7 @@ Highland tribes is an undirected signed network whose edges are labels with eith
 
 
 ## Slashdot
-
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -359,7 +360,7 @@ Slashdot is a directed signed network whose edges are labels with either a posit
 
 
 ## Twitter Italian Referendum
-
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -401,7 +402,7 @@ Twitter referendum is an undirected signed network whose edges are labels with e
 
 
 ## Wikipedia Conflict
-
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -445,7 +446,7 @@ The network contains 7116 nodes, 533439 positive links, 515137 negative links, a
 
 
 ## Wikipedia Elections
-
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
@@ -487,7 +488,7 @@ Wiki elections is a directed signed network whose edges are labels with either a
 
 
 ## Wikipedia Politics
-
+[top](#datasets)
 <p align="center">
   <img width="200" src="/images/network-to-be-added.png">
 </p>
