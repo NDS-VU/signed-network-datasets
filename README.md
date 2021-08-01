@@ -1,4 +1,5 @@
-# Datasets [![repo size](https://img.shields.io/github/repo-size/NDS-VU/signed-network-datasets.svg)](https://github.com/NDS-VU/signed-network-datasets/archive/master.zip) [![nds_vu](https://img.shields.io/twitter/follow/nds_vu?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=nds_vu)⠀
+# Datasets
+[![repo size](https://img.shields.io/github/repo-size/NDS-VU/signed-network-datasets.svg)](https://github.com/NDS-VU/signed-network-datasets/archive/master.zip) [![nds_vu](https://img.shields.io/twitter/follow/nds_vu?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=nds_vu)⠀
 
 Signed network datasets collected for network science, deep learning, and social network analysis research.
 
