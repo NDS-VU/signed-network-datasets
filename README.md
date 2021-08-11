@@ -1304,4 +1304,3 @@ WWIII is a directed network in the format: [Source, Target, Export, Import, Dipl
 ### Citing
 ```bibtex
 https://github.com/worldWarIII-scomp/WorldWarIII_Scomp
-}
