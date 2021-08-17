@@ -22,10 +22,10 @@ Signed network datasets collected for network science, deep learning, and social
 11. [Epinions](#epinions)
 12. [Highland Tribes](#highland-tribes)
 13. [Libimseti](#libimseti)
-14. [Ligue 1](#ligue1)
+14. [Ligue 1](#ligue-1)
 15. [Network Village](#network-village)
 16. [Premier League](#premier-league)
-17. [Pro League](#proleague)
+17. [Pro League](#pro-league)
 18. [Real Bitcoin Alpha](#real-bitcoin-alpha)
 19. [Real Bitcoin OTC](#real-bitcoin-otc)
 20. [Slashdot](#slashdot)
@@ -258,7 +258,7 @@ Bonanza is a directed signed network of people who participate in transactions o
 
 ### Links
 
-- [Bonanza](https://too_large-is-not-included-in-the-list)
+- [Bonanza](https://www.dropbox.com/s/1kiyaulzcyzzmnd/Bonanza.zip?dl=0)
 
 ### Properties
 
@@ -520,7 +520,7 @@ Dutch College is a directed signed network that is the result of friendship rati
 
 ### Links
 
-- [Congress](https://github.com/NDS-VU/signed-network-datasets/files/6970909/dutchcollege.csv)
+- [Dutch College](https://github.com/NDS-VU/signed-network-datasets/files/6970909/dutchcollege.csv)
 
 
 ### Properties
@@ -640,8 +640,8 @@ Highland tribes is an undirected signed network whose edges are labels with eith
 ### Citing
 ```bibtex
 @inproceedings{vunds
-author = {Derr, Tyler and Libaire, Sam},
-title = {Bonanza},
+author = {Sam Libaire and Tyler Derr},
+title = {Highland Tribes},
 year = {2021},
 organization = {Vanderbilt University; Nashville, TN},
 }
@@ -847,7 +847,7 @@ Premier League is a directed signed network that is the result of football (Amer
 ## Pro League
 [top](#datasets)
 <p align="center">
-  <img width="200" src="![Uploading Unknown-3.png…]()">
+  <img width="200" src="https://user-images.githubusercontent.com/71398034/129743646-026c67aa-1152-4034-ba96-8341046b8a3f.png">
 </p>
 
 
@@ -898,7 +898,7 @@ Pro league is a directed signed network that is the result of football (American
 ## Real Bitcoin Alpha
 [top](#datasets)
 <p align="center">
-  <img width="200" src="!!!">
+  <img width="200" src="https://user-images.githubusercontent.com/71398034/129743510-7558dd11-849c-4c0b-af9e-4c3529a85696.png">
 </p>
 
 
@@ -934,7 +934,7 @@ Real Bitcoin Alpha is a directed signed network of people who trade using Bitcoi
 ```bibtex
 @inproceedings{vunds
 author = {Sam Libaire and Tyler Derr},
-title = {Bonanza},
+title = {Real Bitcoin Alpha},
 year = {2021},
 organization = {Vanderbilt University; Nashville, TN},
 }
@@ -944,7 +944,7 @@ organization = {Vanderbilt University; Nashville, TN},
 ## Real Bitcoin OTC
 [top](#datasets)
 <p align="center">
-  <img width="200" src="!!!">
+  <img width="200" src="https://user-images.githubusercontent.com/71398034/129742994-69834f39-1c4f-46c1-ab14-d006897a6538.png">
 </p>
 
 
@@ -979,7 +979,7 @@ Real Bitcoin OTC is a directed signed trust network of people who trade using Bi
 ```bibtex
 @inproceedings{vunds
 author = {Sam Libaire and Tyler Derr},
-title = {Bonanza},
+title = {Real Bitcoin OTC},
 year = {2021},
 organization = {Vanderbilt University; Nashville, TN},
 }
@@ -990,7 +990,7 @@ organization = {Vanderbilt University; Nashville, TN},
 ## Slashdot
 [top](#datasets)
 <p align="center">
-  <img width="200" src="!!!">
+  <img width="200" src="https://user-images.githubusercontent.com/71398034/129742816-31bc772e-787a-4c92-bee2-38af7f23dd9e.png">
 </p>
 
 
@@ -1060,7 +1060,7 @@ series = {WWW '20}
 ## Twitter Italian Referendum
 [top](#datasets)
 <p align="center">
-  <img width="200" src="!!!">
+  <img width="200" src="https://user-images.githubusercontent.com/71398034/129742559-9c10dc70-50ff-4a61-9d5c-b395c038df25.png">
 </p>
 
 
@@ -1130,7 +1130,7 @@ series = {WWW '20}
 ## Wikipedia Conflict
 [top](#datasets)
 <p align="center">
-  <img width="200" src="!!!">
+  <img width="200" src="https://user-images.githubusercontent.com/71398034/129741520-ebf5068e-6b25-4e75-a3a8-67ed63727199.png">
 </p>
 
 
@@ -1178,7 +1178,7 @@ Wiki conflict is a directed signed network whose edges are labels with either a 
 ## Wikipedia Elections
 [top](#datasets)
 <p align="center">
-  <img width="200" src="!!!">
+  <img width="200" src="https://user-images.githubusercontent.com/71398034/129741520-ebf5068e-6b25-4e75-a3a8-67ed63727199.png">
 </p>
 
 
@@ -1226,7 +1226,7 @@ Wiki elections is a directed signed network whose edges are labels with either a
 ## Wikipedia Politics
 [top](#datasets)
 <p align="center">
-  <img width="200" src="!!!">
+  <img width="200" src="https://user-images.githubusercontent.com/71398034/129741520-ebf5068e-6b25-4e75-a3a8-67ed63727199.png">
 </p>
 
 
@@ -1271,17 +1271,19 @@ Wiki politics is an undirected signed network whose edges are labels with either
 ## World War III
 [top](#datasets)
 <p align="center">
-  <img width="200" src="!!!">
+  <img width="200" src="https://user-images.githubusercontent.com/71398034/129740569-4dcd4291-8866-4f33-b3a5-d6860f3a6c1d.jpg">
 </p>
 
 
 ### Description
+			
 <p align="justify">
 WWIII is a directed network in the format: [Source, Target, Export, Import, Diplomatic, War, Border, International Cases, Treaties, Exchange Rate, Religion_conflicts]. This network was created by GitHub user shivi98g in a repository entitled "WorldWarIII_Scomp."
+</p>
 
 ### Links
 
-- [WWIII][wwIII.csv](https://github.com/NDS-VU/signed-network-datasets/files/6971523/wwIII.csv)
+- [WWIII](https://github.com/NDS-VU/signed-network-datasets/files/6971523/wwIII.csv)
 
 
 
@@ -1296,11 +1298,15 @@ WWIII is a directed network in the format: [Source, Target, Export, Import, Dipl
 |   | **World War III**  |
 |---|---|
 | **Nodes** | 198  | 
-| **Positive Edges** | NA |
-| **Negative Edges** | NA |
+| **Positive Edges** | N/A |
+| **Negative Edges** | N/A |
 | **Clustering Coefficient** | 0.994898 |
 
 
 ### Citing
 ```bibtex
-https://github.com/worldWarIII-scomp/WorldWarIII_Scomp
+@inproceedings{GitHub:shivi98g,
+	title = {WorldWarIII_Scomp},
+	author = {shivi98g},
+}
+```
