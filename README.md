@@ -3,6 +3,8 @@
 
 Signed network datasets collected for network science, deep learning, and social network analysis research.
 
+Please note that this is a work in progress and much of the information related to the dataset statistics and citations needs to be updated.
+
 <p align="center">
   <img width="600" src="images/logo_nds.png">
 </p>
